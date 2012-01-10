@@ -18,6 +18,7 @@
     "coffee-script": "1.2.0",
     "optparse": "1.0.3",
     "scoped-http-client": "0.9.6",
+    "hubot-gtalk": ">= 0.0.1",
     "log": "1.2.0"
   },
 
